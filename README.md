@@ -1,15 +1,6 @@
 # Hi, I'm Yahia Hesham Yahia 👋
 
-🎓 **Computer Engineering Student @ German University in Cairo (GUC)**  
-💻 Java • React • C • SQL • Python • JavaScript • TypeScript 
-🌐 Fluent in English & Arabic | German (A2)  
-🏆 Top-ranked student | Fast learner | Great leadership skills  
-
----
-
-## 🚀 About Me
-
-I'm a third-year computer engineering student with a passion for building things that combine system-level logic with clean user experience. I enjoy working across the stack — from backend logic in C and SQL to frontend experiences in React and JavaFX.
+🎓 **Computer Engineering Student @ German University in Cairo (GUC)**   
 
 ---
 
@@ -24,7 +15,6 @@ I'm a third-year computer engineering student with a passion for building things
 
 ## 📫 Let's Connect
 - 🌐 LinkedIn: [linkedin.com/in/yahia-hesham-yahia](https://linkedin.com/in/yahia-hesham-yahia)
-- 💻 GitHub: [github.com/yaahiaa](https://github.com/yaahiaa)
 
 ---
 
