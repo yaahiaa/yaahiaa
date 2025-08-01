@@ -1,4 +1,4 @@
-# Hi, I'm Yahia Hesham Yahia 👋
+# Hi, I'm Yahia Hesham Yahia
 
 🎓 **Computer Engineering Student @ German University in Cairo (GUC)**   
 
