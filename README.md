@@ -7,7 +7,7 @@
 ## 📂 Featured Projects
 
 - 🎮 **[Attack on Titan: Utopia](https://github.com/yaahiaa/Attack-on-titan-mini-game)** — A JavaFX tower defense game using MVC.
-- 💾 **[OS Simulator & Visualizer](https://github.com/yaahiaa/os-simulator-visualizer)** — C-based OS logic with a React frontend.
+- 🏦 **[Virtual Banking System](https://github.com/A-Aref/Ejada_project/tree/Docker-Testing)** — Microservices-based Banking Platform using Spring Boot, WSO2, and Kafka).
 - 📡 **[Telecom Customer Management System](https://github.com/yaahiaa/telecom-customer-management-system)** — ASP.NET web app backed by SQL Server.
 - 📁 **[GUC Internship System Prototype](https://github.com/CSEN603-2025/Wolves)** — Frontend-only system built using React.
 
